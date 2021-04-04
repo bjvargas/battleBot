@@ -19,12 +19,6 @@ public class Main {
 
 			classPlay.logAndPlay();
 		}
-		
-		/**
-		CalculoPrefixoSufixo classe = new CalculoPrefixoSufixo();
-		
-		System.out.println(classe.verificarPalindromo("arara"));//abbabba  BrunoXonurB
-		*/
 	}
 	
 }
